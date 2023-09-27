@@ -7,9 +7,9 @@ MONGO_DB_URL=
 DURATION_LIMIT=120
 LOG_GROUP_ID=
 OWNER_ID=
-SUPPORT_CHANNEL=https://t.me/adityaserver
-SUPPORT_GROUP=https://t.me/adityadiscus
-UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
+SUPPORT_CHANNEL=https://t.me/ishqkafunda
+SUPPORT_GROUP=https://t.me/ishq_ka_funda
+UPSTREAM_REPO=https://github.com/Salaarofx/sislove
 UPSTREAM_BRANCH=aditya
 AUTO_DOWNLOADS_CLEAR=True
 
