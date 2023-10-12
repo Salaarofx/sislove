@@ -1,1 +1,15 @@
+API_ID=
+API_HASH= 
+BOT_TOKEN=
+STRING_SESSION=BQCnOStGBdrdgk4GxQfnF9ECuLyV91IlLcomB_O_lc9XqGIM4LzJM--2XR7UoEzPBVNLxGc5BQq1lXQPTwOSIpFr3iD7YvE_z2QsKBUX-Xb4m6k2JfPRWphzl2wVNS5oWyEJ7NjLu9JaAZuXRML8YPAuzUXIqkU0hyE1Vre1kZSykkGcjYWKp_kSyUkD71ZrVrACuCxc3VhO66GYVCARBJbnuXjqVq_LxI2IR1oSxh2yTvJY41NTvIhqjLHg6nlO31-mkxTRiuj-FbnSh5zB3tfndkiiEwlFNpDtrmnI79LFqtkAAAAAX6v-SYA
+MUSIC_BOT_NAME=salaar music server
+MONGO_DB_URL=mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority
+DURATION_LIMIT=1200
+LOG_GROUP_ID=-1001935242327
+OWNER_ID=6506155778
+SUPPORT_CHANNEL=https://t.me/ishqkafunda
+SUPPORT_GROUP=https://t.me/ishq_ka_funda
+UPSTREAM_REPO=https://github.com/Salaarofx/sislove
+UPSTREAM_BRANCH=aditya
+AUTO_DOWNLOADS_CLEAR=True
 
